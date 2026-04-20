@@ -54,7 +54,7 @@ Following the course code conventions, the repository is structured modularly:
 
 A brief 2–5 minute video demonstration covering model training, latent space visualizations, generated samples, and key findings can be found below:
 
-👉 **[Watch the Video Demonstration Here (Google Drive)](https://drive.google.com/drive/folders/1sLa-6rtXY6IjwkWbzVpYcmhmPk3cqxWJ?usp=sharing)**
+👉 **[Watch the Video Demonstration Here (Google Drive)](https://drive.google.com/file/d/1K8qSBOG0tIO9w0miXlGu-TyOdz_B9fPn/view?usp=sharing)**
 
 ## 🛠️ Built With
 
