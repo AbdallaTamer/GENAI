@@ -68,4 +68,3 @@ A brief 2–5 minute video demonstration covering model training, latent space v
 <!-- end list -->
 
 ```
-```
