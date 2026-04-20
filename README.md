@@ -1,4 +1,3 @@
-````markdown
 # DSAI 490 - Assignment 1: Representation Learning with Autoencoders (AE & VAE)
 
 **Author:** Abdalla Tamer  
@@ -12,7 +11,6 @@ Using the **Medical MNIST** dataset, this codebase demonstrates how to compress 
 ## 📂 Project Structure
 Following the course code conventions, the repository is structured modularly:
 
-```text
 ├── notebooks/
 │   └── experiment.ipynb # Main training, evaluation, and visualization pipeline
 ├── src/
@@ -21,7 +19,6 @@ Following the course code conventions, the repository is structured modularly:
 │   └── model.py           # TensorFlow subclassed AE and VAE architectures
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
-````
 
 ## 🚀 How to Run the Project
 
@@ -64,7 +61,3 @@ A brief 2–5 minute video demonstration covering model training, latent space v
   * **TensorFlow & Keras:** For model architecture and deep learning pipelines.
   * **tf.data:** For highly optimized, asynchronous data loading and preprocessing.
   * **Matplotlib:** For latent space and reconstruction visualization.
-
-<!-- end list -->
-
-```
